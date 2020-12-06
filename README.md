@@ -1,0 +1,3 @@
+# Accordion
+
+With pure CSS
